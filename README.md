@@ -4,4 +4,4 @@
 移动和非移动的水管
 
 具体界面如下
-  ![演示图片](https://git.nowcoder.com/364012032/birdGame/blob/master/show.gif ) 
+  ![演示图片](https://git.nowcoder.com/364012032/birdGame/blob/master/images/show.gif) 
